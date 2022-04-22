@@ -1,0 +1,23 @@
+{
+  "name": "management-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B3N909/management-tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B3N909/management-tools/issues"
+  },
+  "homepage": "https://github.com/B3N909/management-tools#readme",
+  "dependencies": {
+    "midi-file": "^1.2.2"
+  }
+}
